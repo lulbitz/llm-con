@@ -4,13 +4,14 @@ LLM security assessment framework. Automated reconnaissance, fingerprinting, and
 # llm-con
 
 ```
-____________
-___  /___  /_______ ___       ___________________
+____________                                      
+___  /___  /_______ ___       ___________________ 
 __  / __  / __  __ `__ \_______  ___/  __ \_  __ \
 _  /___  /___  / / / / //_____/ /__ / /_/ /  / / /
-/_____/_____/_/ /_/ /_/       \___/ \____//_/ /_/
+/_____/_____/_/ /_/ /_/       \___/ \____//_/ /_/ 
+  RECON > FINGERPRINT > INJECT > BYPASS > EXFIL > PIVOT
 
-  LLM Security Assessment Framework  v0.5.3
+  LLM Security Assessment Framework  v0.5.3:dev
 ```
 
 > **Under active development - public release coming soon.**
